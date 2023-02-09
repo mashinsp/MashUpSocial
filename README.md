@@ -14,7 +14,9 @@ and join communities based on your hobbies and passions. start mashing up with t
 
 ![Screenshot 2023-02-09 174232](https://user-images.githubusercontent.com/88382605/217837788-3cb0fd95-c468-4525-b5c4-4194ccfe6a08.png)
 
-![Screenshot 2023-02-09 165528](https://user-images.githubusercontent.com/88382605/217837797-7c6556c4-3cd6-46d5-8065-8d36a3bac43f.png)
+
+![Screenshot 2023-02-09 174249](https://user-images.githubusercontent.com/88382605/217839301-9b0377b7-2abf-4205-97ed-86eea32cfe3c.png)
+
 
 
 ## posts (statistics included: likes comments)
