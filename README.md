@@ -7,7 +7,7 @@
 ## Description
 
 MashUp Social is a social media platform that allows users to connect and share their interests with others. 
-you can effortlessly create and share your own posts, discover new content, 
+you can effortlessly create and share your own posts
 and join communities based on your hobbies and passions.
 
 ## UI (Light and Dark Mode)
