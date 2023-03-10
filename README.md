@@ -1,7 +1,7 @@
 # MashUpSocial
 
 - This project was build using MERN tech and various other libraries.
-- Fully responsive for mobile as well as Web
+- Fully responsive for mobile as well as Web.
 
 ## Description
 
